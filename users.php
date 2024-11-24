@@ -141,4 +141,5 @@
       </section>
     </div>
   </body>
+  <script src="javascript/users.js"></script>
 </html>
